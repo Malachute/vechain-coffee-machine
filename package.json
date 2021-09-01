@@ -1,6 +1,6 @@
 {
   "name": "vechain-coffee-machine",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "mini.css": "^3.0.1",
@@ -12,11 +12,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app"
-    ]
   },
   "browserslist": {
     "production": [

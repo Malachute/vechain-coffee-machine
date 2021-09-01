@@ -60,7 +60,9 @@ set-ascii.ps1
 debug.log
 
 package-lock.json
+yarn.lock
 
+.env
 .env.local
 .env.development.local
 .env.test.local
